@@ -2,7 +2,7 @@
 
 
 ### Screenshots
-![Image1](https://www.dropbox.com/s/f6mva0zxc4kqj7u/Screen%20Shot%202014-09-17%20at%209.39.04%20PM.png?dl=0)
+![Image1](https://cloud.githubusercontent.com/assets/7136454/4314925/2bbf7b04-3ee9-11e4-8e88-9af2d55fec73.png)
 
 
 ### Description
