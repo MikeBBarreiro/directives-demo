@@ -13,14 +13,14 @@
 
     o.restrict    = 'A';
     o.templateUrl = '/components/directives/mb-movie/mb-movie.html';
-    o.scope       = {title:'@'};
+    o.scope       = {title:'@', remove:'&'};
     o.link        = function(scope, element, attrs){
                       };
 
     o.controller  = ['$scope', 'MovieApi', function($scope, MovieApi){
-                        MovieApi.info($scope.title).then(function(response){
-                          $scope.movie = response.data.movies[0];
-                          $scope.poster = $scope.movie.posters.thumbnail.replace(/_tmb/, '_pos');
+                      MovieApi.info($scope.title).then(function(response){
+                        $scope.movie = response.data.movies[0];
+                        $scope.poster = $scope.movie.posters.thumbnail.replace(/_tmb/, '_pos');
                       });
                     }];
 
