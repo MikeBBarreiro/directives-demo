@@ -1,46 +1,19 @@
-## name of project
-### Code Badges
-build status icon
-coverage status icon
+## Directive-Demo
+
 
 ### Screenshots
-![Image1](https://raw.githubusercontent.com/nss-cohort-2014-06-07/express-template/master/docs/screenshots/one.jpg)
-![Image2](https://raw.githubusercontent.com/nss-cohort-2014-06-07/express-template/master/docs/screenshots/two.jpg)
+![Image1](https://www.dropbox.com/s/f6mva0zxc4kqj7u/Screen%20Shot%202014-09-17%20at%209.39.04%20PM.png?dl=0)
+
 
 ### Description
-write a description about your project
-
-### Models
 ```
-Model 1
-```
+This is a demo using __Angular.js__ on making custom directives! Using Rottentomatoes, WeatherUnderground, and Market-on-demand's API. Also created clocks to the milisecond and some simple basic directives! 
 
 ```
-Model 2
-```
 
-### Database
-```
-Collecion 1
-```
-
-```
-Collection 2
-```
-
-### Features
-- [x] Feature 1
-- [ ] Feature 2
-- [x] Feature 3
-
-### Running Tests
-```bash
-$ npm install
-$ npm test
-```
 
 ### Contributors
-- [Chyld Medford](https://github.com/chyld)
+- [Michael Barreiro](https://github.com/mikebbarreiro)
 
 ### License
 [MIT](LICENSE)
