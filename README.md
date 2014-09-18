@@ -6,10 +6,10 @@
 
 
 ### Description
-```
+
 This is a demo using __Angular.js__ on making custom directives! Using Rottentomatoes, WeatherUnderground, and Market-on-demand's API. Also created clocks to the milisecond and some simple basic directives! 
 
-```
+
 
 
 ### Contributors
