@@ -4,14 +4,14 @@
   "description": "The MEAN Template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nss-cohort-2014-06-07/mean-template"
+    "url": "https://github.com/mikebbarreiro/mean-template"
   },
-  "author": "Chyld Medford <chyld.medford@gmail.com>",
+  "author": "Michael Barreiro <mikebbarreiro@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nss-cohort-2014-06-07/mean-template/issues"
+    "url": "https://github.com/mikebbarreiro/mean-template/issues"
   },
-  "homepage": "https://github.com/nss-cohort-2014-06-07/mean-template",
+  "homepage": "https://github.com/mikebbarreiro/mean-template",
   "dependencies": {
     "async": "^0.9.0",
     "bcrypt": "^0.8.0",

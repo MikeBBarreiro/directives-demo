@@ -1,15 +1,26 @@
-h3 Home
+h1 Movies
+.contain
+  div(mb-movie, title='The Amazing Spiderman')
+  div(mb-movie, title='Oblivion')
+  div(mb-movie, title='Godzilla')
+
+h1 Weather
 
 div(cm-weather, zip='37203')
 div(cm-weather, zip='10011')
 div(cm-weather, zip='99501')
 
+h1 Stocks
+
 div(ng-repeat='symbol in symbols', cm-stock, symbol='{{symbol}}')
 div(ng-repeat='person in people', cm-greeting, name='{{person.name}}', age='{{person.age}}')
+
+h1 clocks
 
 div(cm-clock, frequency='2000')
 div(cm-clock, frequency='1000')
 div(cm-clock, frequency='500')
 div(cm-clock, frequency='250')
 div(cm-clock, frequency='10')
+
 
